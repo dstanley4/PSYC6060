@@ -16,5 +16,5 @@ OCB-commitment-study1-analyses.R
 OCB-commitment-study2-analyses.R
 
 
-Notice the format of these file name conventions broad categories are on the left and progressively more specific as you move right. This ensure files of similar types are clustered together.
+Notice the format of these filenames starts with broad categories  on the left and becomes progressively more specific as you move right. This ensure related files are clustered together.
 
